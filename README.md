@@ -3,6 +3,7 @@
 
 Aggregator Service is a Kotlin application that provides various statistics and insights from football match data.  
 
+The application expects a csv file stored in the resources folder in the csv format. However the path can be changed in the main class.
 
 ## Features
 
